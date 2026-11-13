@@ -1,0 +1,5 @@
+<h2>Student List</h2>
+
+@for (student of students; track student.id) {
+  <app-student-card [student]="student"></app-student-card>
+}

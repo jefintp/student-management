@@ -1,0 +1,9 @@
+h2 {
+  font-size: 22px;
+  color: #172554;
+  margin-bottom: 20px;
+}
+
+:host {
+  display: block;
+}
